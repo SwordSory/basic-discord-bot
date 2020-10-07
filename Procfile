@@ -1,1 +1,1 @@
-worker: python
+worker: python botapp.py
