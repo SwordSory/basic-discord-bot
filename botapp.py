@@ -93,4 +93,4 @@ async def help(ctx):
     """)
 
 
-client.run("NzYyOTU0NjU3OTM2ODM0NTYw.X3wq5Q.Br5mB_Qo8r1oX3lvJVRqmJLneQo")
+client.run("botid")
